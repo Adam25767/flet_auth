@@ -1,0 +1,21 @@
+name: flet_auth
+description: Flet Local Auth control
+homepage: https://pub.dev
+repository: https://pub.dev/packages/flet_auth
+version: 0.0.3
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flet: ^0.21.2
+  local_auth: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
